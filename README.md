@@ -9,7 +9,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="20776632" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/sicp-hal-abelson-6001-structure-and-interpretation-of-computer-programs-mit-gif-20776632">Sicp Hal Abelson GIF</a>from <a href="https://tenor.com/search/sicp-gifs">Sicp GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/sicp-hal-abelson-6001-structure-and-interpretation-of-computer-programs-mit-gif-20776632">Sicp Hal Abelson GIF</a>from <a href="https://tenor.com/search/sicp-gifs">Sicp GIFs</a>
 
 ###
 
