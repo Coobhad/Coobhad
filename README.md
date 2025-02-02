@@ -9,10 +9,6 @@
 
 ###
 
-<a href="https://tenor.com/view/sicp-hal-abelson-6001-structure-and-interpretation-of-computer-programs-mit-gif-20776632">Sicp Hal Abelson GIF</a>from <a href="https://tenor.com/search/sicp-gifs">Sicp GIFs</a>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
