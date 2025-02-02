@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Lucas and I'm a Student Compsci at VUB</h2>
+<h2 align="left">Hi! My name is Lucas, Student Compsci at VUB</h2>
 
 ###
 
